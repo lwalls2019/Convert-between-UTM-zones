@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Convert_between_UTM_zones
 {
-    public partial class Form1 : Form
+    public partial class UTM_Zone_Conversion : Form
     {
-        public Form1()
+        public UTM_Zone_Conversion()
         {
             InitializeComponent();
         }

@@ -16,7 +16,7 @@ namespace Convert_between_UTM_zones
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new UTM_Zone_Conversion());
         }
     }
 }
