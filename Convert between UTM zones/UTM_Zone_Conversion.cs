@@ -11,6 +11,9 @@ using OSGeo.GDAL;
 using OSGeo.OGR;
 using OSGeo.OSR;
 
+/// <summary>
+/// Publishing to GitHub 10/30/2019
+/// </summary>
 namespace Convert_between_UTM_zones
 {
     public partial class UTM_Zone_Conversion : Form
